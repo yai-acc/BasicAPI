@@ -22,6 +22,12 @@
         "subtitle":"ภาษีตามประมวลรัษฎากร",
         "image_rul":"https://www.rd.go.th/typo3conf/ext/rdinter_theme13/Resources/Public/Images/og_the-revenue-department.jpg",
         "detail": "ไปหาข้อมูลมาก่อนนะ"
+    },
+    {
+        "title":"การบัญชีภาษีอากร",
+        "subtitle":"ภาษีตามประมวลรัษฎากร",
+        "image_rul":"https://www.rd.go.th/typo3conf/ext/rdinter_theme13/Resources/Public/Images/og_the-revenue-department.jpg",
+        "detail": "ไปหาข้อมูลมาก่อนนะ"
     }
 
 ]
