@@ -1,0 +1,27 @@
+[
+    {
+        "title":"มาตรฐานการบัญชี",
+        "subtitle":"เป็นกฎหมายทางการบัญชีที่ต้องปฎิบัติตาม",
+        "image_rul":"https://www.tfac.or.th/upload/9414/it862CuIg0.jpg",
+        "detail": "ไปหาข้อมูลมาก่อนนะ"  
+    },
+    {
+        "title":"มาตรฐานรายงานทางการเงิน TFRS",
+        "subtitle":"มาตรฐานที่มีผลกับบุคลที่มีผลกระทบเป็นวงกว้าง",
+        "image_rul":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8EZAPLs73rraAmDuoZ4qg5OVpWRaGVJVx1Q&usqp=CAU",
+        "detail": "ไปหาข้อมูลมาก่อนนะ"   
+    },
+    {
+        "title":"มาตรฐาน NPAE",
+        "subtitle":"มาตรฐานที่ไม่มีผลกระทบเป็นวงกว้าง",
+        "image_rul":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFvgfvUWodhRAelG5LJabps54_gadmQ0oA2pMzUK0dQEYkQiCfrXbxufFfp5fWY1n5-U4&usqp=CAU",
+        "detail": "ไปหาข้อมูลมาก่อนนะ"
+    },
+    {
+        "title":"เกี่ยวกับภาษีอากร",
+        "subtitle":"ภาษีตามประมวลรัษฎากร",
+        "image_rul":"https://www.rd.go.th/typo3conf/ext/rdinter_theme13/Resources/Public/Images/og_the-revenue-department.jpg",
+        "detail": "ไปหาข้อมูลมาก่อนนะ"
+    }
+
+]
