@@ -2,25 +2,25 @@
     {
         "title":"มาตรฐานการบัญชี",
         "subtitle":"เป็นกฎหมายทางการบัญชีที่ต้องปฎิบัติตาม",
-        "image_rul":"https://raw.githubusercontent.com/yai-acc/BasicAPI/main/TFAC.jpg",
+        "image_url":"https://raw.githubusercontent.com/yai-acc/BasicAPI/main/TFAC.jpg",
         "detail": "ไปหาข้อมูลมาก่อนนะ"  
     },
     {
         "title":"มาตรฐาน NPAE",
         "subtitle":"มาตรฐานที่ไม่มีผลกระทบเป็นวงกว้าง",
-        "image_rul":"https://raw.githubusercontent.com/yai-acc/BasicAPI/main/NPAE.png",
+        "image_url":"https://raw.githubusercontent.com/yai-acc/BasicAPI/main/NPAE.png",
         "detail": "ไปหาข้อมูลมาก่อนนะ"
     },
     {
         "title":"เกี่ยวกับภาษีอากร",
         "subtitle":"ภาษีตามประมวลรัษฎากร",
-        "image_rul":"https://raw.githubusercontent.com/yai-acc/BasicAPI/main/RD.jpg",
+        "image_url":"https://raw.githubusercontent.com/yai-acc/BasicAPI/main/RD.jpg",
         "detail": "ไปหาข้อมูลมาก่อนนะ"
     },
     {
         "title":"การบัญชีภาษีอากร",
         "subtitle":"ภาษีตามประมวลรัษฎากร",
-        "image_rul":"https://www.rd.go.th/typo3conf/ext/rdinter_theme13/Resources/Public/Images/og_the-revenue-department.jpg",
+        "image_url":"https://raw.githubusercontent.com/yai-acc/BasicAPI/main/TaxAccounting.jpg",
         "detail": "ไปหาข้อมูลมาก่อนนะ"
     }
 
